@@ -1,0 +1,11 @@
+
+
+	@author Joseph Sey
+
+	when a product is clicked, send an object that includes the product's picture, product's name and price;
+	
+	127.0.0.1:PROCCESS_ENV/products?name=productname&productPictureUrl=pictureUrl&productPrice=price
+	
+	parse the query Parameters into an object and render them into the view with ejs
+	
+	
